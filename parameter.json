@@ -1,0 +1,8 @@
+{
+  "max": 255,
+  "supportCommand": ["01","03"],
+  "originString": "257f8005",
+  "repeatTime": 30,
+  "sensorID": "AAAAAAAA",
+  "typeID": "T=-50"
+}
