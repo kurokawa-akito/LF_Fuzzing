@@ -4,9 +4,9 @@
 This document outlines the parameters used in the code for proper configuration and utilization of the program. Please read through the following details to ensure accurate parameter settings.
 
 ### Structure of Experiment
-![image](https://github.com/user-attachments/assets/3dea517f-845f-4f38-a40d-4e11938ef349)
+![image](https://github.com/user-attachments/assets/87bd9adc-2a0b-4842-a088-56d8ef3b95db)  
 ### Fuzzed Data Set
-* LF Trigger Commands
+* Supported LF Trigger Commands
   * MLF [01, 03, 05, 06, 07, 09, 10, 12, 13, 14, 17, 20]
     * MLF 01: 0x25 0x7F 0x80 0x05 **0x01** -> 257F800501
     * MLF 03: 0x25 0x7F 0x80 0x05 **0x03** -> 257F800503
